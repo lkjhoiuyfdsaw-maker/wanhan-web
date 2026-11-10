@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Wy9s6hX0.js";import{i as t,n,r,t as i}from"./ChatView-Cahwoofz.js";var a=e();function o(){return(0,a.jsx)(i,{ns:`claude`,who:`Claude`,icon:`✳️`,models:r,defaultModel:n.model,proxyDefault:t,footNote:`${r[0].label} 起步 · 走自建中转（key 不在网页里）· 额度是共享的，省着点`})}export{o as default};

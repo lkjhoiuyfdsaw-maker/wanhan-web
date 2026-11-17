@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BMsyJmCf.js";import{n as t,r as n,t as r}from"./claude-BVXE_if5.js";import{t as i}from"./ChatView-B8P6E0_Z.js";var a=e();function o(){return(0,a.jsx)(i,{ns:`claude`,who:`Claude`,icon:`✳️`,models:t,defaultModel:r.model,proxyDefault:n,footNote:`${t[0].label} 起步 · 走自建中转（key 不在网页里）· 额度是共享的，省着点`})}export{o as default};
